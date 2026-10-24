@@ -1,0 +1,16 @@
+# Build outputs
+build/
+.gradle/
+*.apk
+*.aab
+
+# Machine-specific
+local.properties
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Signing material
+*.jks
+*.keystore
